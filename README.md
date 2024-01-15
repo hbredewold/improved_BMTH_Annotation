@@ -5,7 +5,7 @@
 <br>
 
 ## Corpus
-The corpus included in this github repository is a corpus of song lyrics from the British Metalcore band Bring Me The Horizon. In the texts folder are 6 folders, corresponding to their six albums with commercial success, namely: ‘Suicide Season’, ‘There Is A hell Believe Me I’ve Seen It. There is a Heaven Let’s Keep It A Secret’, ‘Sempiternal’, ‘ That’s the Spirit’, ‘Amo’ and ‘Post Human: Survival Horror’. 
+The corpus included used in the Notebook is a corpus of song lyrics from the British Metalcore band Bring Me The Horizon. The contents of the CSV are derived from 6 folders, which contain .txt files of songs corresponding to their six albums with commercial success, namely: ‘Suicide Season’, ‘There Is A hell Believe Me I’ve Seen It. There is a Heaven Let’s Keep It A Secret’, ‘Sempiternal’, ‘ That’s the Spirit’, ‘Amo’ and ‘Post Human: Survival Horror’. 
 <br>
 ## Audice and use
 The target audience for this project is people interested in lyrics analyses, programming, but also people who are fans of BMTH. This corpus can be used to have a handy CSV of the annotated lyrics of the six most commercially viable BMTH albums's songs, and can then also be used to analyze their music, style, word-use etc. The .txt of the lyrics itself and the columns containing these lyrics are deleted as the song texts are copyrighted. The tokenized and annotated columns are derivative versions of the text and are included for educational purposes.
