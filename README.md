@@ -21,6 +21,9 @@ The bare lyrics are in txt files, one txt file per song. Furthermore, the txt fi
 ## Annotations
 To the original CSV I used the spaCy library to add Doc, Tokens, Lemma's, Part-Of-Speech and Named_Entities and their corresponding NE_Words to the songs. To make this easier I have converted the CSV into a dataframe. 
 <br>
+## Format
+The song lyrics data has been annotated and explored in an IPython Notebook (ipynb file) called 'BMTH lyrics annotation'. The annotated lyrics themselves can be found in a CSV file called 'BMTH_Discography_annotation'.
+<br>
 ## Description of columns in annotated CSV 
 | Variable | Description |
 | --- | ----------- |
@@ -34,5 +37,3 @@ To the original CSV I used the spaCy library to add Doc, Tokens, Lemma's, Part-O
 | Total_Words_Per_Song | The total amount of words for every song in the corpus |
 | Sentiment | The TextBlob sentiment score of every song lyrics in the corpus |
 <br>
-## Format
-The individual song lyrics are in TXT, and the complete set is in CSV.
